@@ -2,6 +2,8 @@
 
 # HEAD (unreleased)
 
+- Enhancement(Dropdown): Add viewport intersection to change the direction of the dropdown menu upwards or downwards.
+
 ## 34.1.0 (2021-01-20)
 
 - Enhancement: Add `blur` and `dateTimeSelected` outputs to `DateTimeComponent`.
